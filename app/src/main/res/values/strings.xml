@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DMA Lab1</string>
+    <string name="app_name">diceroll</string>
+    <string name="roll">Roll</string>
+    <string name="_6">6</string>
 </resources>
